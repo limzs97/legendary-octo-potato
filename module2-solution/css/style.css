@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Helvetica;
-  font-size: 16px;
+  font-size: 24px;
 }
 
 .heading {
@@ -24,6 +24,7 @@ p {
   color: black;
   padding: 0px 10px 0px 10px;
   float: right;
+  font-size: 0.57em;
 }
 
 /* Simple Responsive Framework. */
@@ -38,10 +39,11 @@ p {
   top: 0px;
   right: 0px;
   padding: 10px;
-  border: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
   text-align: center;
   font-weight: bold; 
-  font-size: 20px;
+  font-size: 0.71em;
 }
 
 .title-1 {
