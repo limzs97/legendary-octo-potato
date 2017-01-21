@@ -25,6 +25,7 @@ p {
   padding: 0px 10px 0px 10px;
   float: right;
   font-size: 0.57em;
+  overflow: hidden;
 }
 
 /* Simple Responsive Framework. */
